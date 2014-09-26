@@ -30,7 +30,7 @@
 ### Hadoop ecosystem
 
 * [How Bigtop packages Hadoop](http://jayunit100.blogspot.com/2014/04/how-bigtop-packages-hadoop.html)
-* 
+* [3-mapreduce-and-hadoop-links](http://nosql.mypopescu.com/post/42024129518/3-mapreduce-and-hadoop-links-secondary-sorting)
 
 ### Java and JVM
 
@@ -103,7 +103,7 @@
 * [five-math-experts-split-the-check](http://mathwithbaddrawings.com/2013/08/21/five-math-experts-split-the-check/)
 * [if-i-can-do-it-so-can-you](http://blackse.wordpress.com/2013/06/16/if-i-can-do-it-so-can-you/)
 * [unlearning](http://blog.precipice.org/unlearning/)
-
+* [Stallman on software patents, 20 years in](http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/)
 
 ### Unix and Linux
 
