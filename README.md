@@ -134,7 +134,7 @@
 
 ### visualization
 
-* [the-science-of-what-we-do-and-dont-know-about-data-visualizatio](http://blogs.hbr.org/2013/04/the-science-of-what-we-do-and-dont-know-about-data-visualization/)
+* [the-science-of-what-we-do-and-dont-know-about-data-visualization](http://blogs.hbr.org/2013/04/the-science-of-what-we-do-and-dont-know-about-data-visualization/)
 
 ### Web and Network
 
