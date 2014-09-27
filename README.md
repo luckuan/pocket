@@ -28,6 +28,7 @@
 * [scala](http://dirlt.com/scala.html)
 * [Functional thinking: Functional error handling with Either and Option](http://www.ibm.com/developerworks/java/library/j-ft13/index.html?ca=drs-)
 * [Cloudera ML](http://blog.cloudera.com/blog/2013/03/cloudera_ml_data_science_tools/)
+* [Functors, applicatives and monads in pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
 
 ### geek
 
@@ -91,7 +92,7 @@
 * [topic scientific discoveries of 2013](http://www.wired.com/2013/12/top-scientific-discoveries-2013/?cid=co15984604)
 * [the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia](http://arstechnica.com/science/2014/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/)
 * [a View of the Earth](http://www.esquire.com/blogs/news/a-view-of-earth)
-* [Functors, applicatives and monads in pictures](http://adit.io/posts/2013-04-17-functors,_applicatives,_and_monads_in_pictures.html)
+
 * [医学诺贝尔之路（1943）：凝与抗凝](http://songshuhui.net/archives/75313)
 * [史前文明打包粉碎](http://songshuhui.net/archives/68160)
 * [黑夜给了我们什么](http://songshuhui.net/archives/82325)
