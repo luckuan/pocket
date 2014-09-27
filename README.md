@@ -145,4 +145,4 @@
 * [Google reader 为什么会关闭](http://www.williamlong.info/archives/3406.html)
 * [the-twelve-timeless-networking-truths](http://highscalability.com/blog/2013/10/2/rfc-1925-the-twelve-timeless-networking-truths.html)
 * [理解本真的REST架构风格](http://www.infoq.com/cn/articles/understanding-restful-style)
-* [Class2Go](http://techcrunch.com/2012/09/17/class2go-stanfords-new-open-source-platform-for-online-education/)
+* [class2go-stanfords-new-open-source-platform-for-online-education](http://techcrunch.com/2012/09/17/class2go-stanfords-new-open-source-platform-for-online-education/)
