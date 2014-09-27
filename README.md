@@ -92,7 +92,6 @@
 * [topic scientific discoveries of 2013](http://www.wired.com/2013/12/top-scientific-discoveries-2013/?cid=co15984604)
 * [the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia](http://arstechnica.com/science/2014/02/the-audacious-rescue-plan-that-might-have-saved-space-shuttle-columbia/)
 * [a View of the Earth](http://www.esquire.com/blogs/news/a-view-of-earth)
-
 * [医学诺贝尔之路（1943）：凝与抗凝](http://songshuhui.net/archives/75313)
 * [史前文明打包粉碎](http://songshuhui.net/archives/68160)
 * [黑夜给了我们什么](http://songshuhui.net/archives/82325)
