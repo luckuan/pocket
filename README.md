@@ -1,8 +1,17 @@
 ## pocket favorites
 
-### algorithms
+### algorithms and data structures
 
 * [frugal streaming](http://research.neustar.biz/2013/09/16/sketch-of-the-day-frugal-streaming/)
+* [基于用户投票的排名算法（三）：Stack Overflow](http://songshuhui.net/archives/67307)
+* [rsync 的核心算法](http://coolshell.cn/articles/7425.html)
+* [an-introduction-to-lock-free-programming](http://preshing.com/20120612/an-introduction-to-lock-free-programming/)
+* [Linus：利用二级指针删除单向链表](http://coolshell.cn/articles/8990.html)
+* [implementing a dynamic array in C](http://happybearsoftware.com/implementing-a-dynamic-array.html)
+
+### BigData ecosystem
+
+* [How Bigtop packages Hadoop](http://jayunit100.blogspot.com/2014/04/how-bigtop-packages-hadoop.html)
 
 ### distributed systems
 
@@ -26,11 +35,8 @@
 * [Aaron Swartz](http://coolshell.cn/articles/11928.html) and [Aaron's laws](http://blip.tv/lessig/aaron-s-laws-law-and-justice-in-a-digital-age-6535852)
 * [Brian W. Kernighan](http://www.ituring.com.cn/article/1592)
 * [王垠](http://news.cnblogs.com/n/157058/)
+* [Ian Hickson - HTML editor](http://html5doctor.com/interview-with-ian-hickson-html-editor/)
 
-### Hadoop ecosystem
-
-* [How Bigtop packages Hadoop](http://jayunit100.blogspot.com/2014/04/how-bigtop-packages-hadoop.html)
-* [3-mapreduce-and-hadoop-links](http://nosql.mypopescu.com/post/42024129518/3-mapreduce-and-hadoop-links-secondary-sorting)
 
 ### Java and JVM
 
@@ -46,14 +52,19 @@
 * [9 Fallacies of Java Performace](http://www.infoq.com/articles/9_Fallacies_Java_Performance)
 * [Know thy Java object memory layout](http://psy-lob-saw.blogspot.co.uk/2013/05/know-thy-java-object-memory-layout.html)
 
-### Lisp
+### Lisp and Programming Language
 
 * [Lisp 的永恒之道](http://coolshell.cn/articles/7526.html)
+* [Why SICP matters](http://www.eecs.berkeley.edu/~bh/sicp.html)
+* [纪念《APL》出版50周年](http://www.ituring.com.cn/article/16119)
 
 ### machine learning and artificial intelligence
 
 * [Viv](http://www.wired.com/2014/08/viv)
 
+### MEAN
+
+* [Node.js的核心与红利](http://www.programmer.com.cn/13844/)
 
 ### mobile
 
@@ -61,10 +72,18 @@
 * [WhatsApp architecture](http://highscalability.com/blog/2014/2/26/the-whatsapp-architecture-facebook-bought-for-19-billion.html)
 * [Android: A visual history](http://www.theverge.com/2011/12/7/2585779/android-history)
 * [the-arm-diaries-part-1](http://www.anandtech.com/show/7112/the-arm-diaries-part-1-how-arms-business-model-works)
+* [Android graphics低性能背后的真像](http://www.kunli.info/2011/12/06/android-graphics/)
 
 ### processors and memory
 
 * [gallery-of-processor-cache-effects](http://igoro.com/archive/gallery-of-processor-cache-effects/)
+* [how SSDs really work](http://arstechnica.com/information-technology/2012/06/inside-the-ssd-revolution-how-solid-state-disks-really-work/)
+
+### reading list
+
+* [10-technical-papers-every-programmer-should-read-at-least-twice](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+* [3-mapreduce-and-hadoop-links](http://nosql.mypopescu.com/post/42024129518/3-mapreduce-and-hadoop-links-secondary-sorting)
+* [Quick and Dirty (Incomplete) List of Interesting, Mostly Recent Data Warehousing and Big Data Papers by Peter Bailis](http://nosql.mypopescu.com/post/44722960504/quick-and-dirty-incomplete-list-of-interesting)
 
 ### science and history
 
@@ -82,6 +101,7 @@
 * [从舌尖到大脑：新研究揭示甜、苦、鲜的味觉传导机制](http://www.guokr.com/article/436766/)
 * [小病毒 大能耐](http://songshuhui.net/archives/79183)
 * [为什么数码相机可以拍出彩色照片？](http://songshuhui.net/archives/75832)
+* [今天说闪电](http://songshuhui.net/archives/75141)
 
 ### software
 
@@ -104,11 +124,13 @@
 * [if-i-can-do-it-so-can-you](http://blackse.wordpress.com/2013/06/16/if-i-can-do-it-so-can-you/)
 * [unlearning](http://blog.precipice.org/unlearning/)
 * [Stallman on software patents, 20 years in](http://arstechnica.com/tech-policy/2012/11/your-criticisms-are-completely-wrong-stallman-on-software-patents/)
+* [my advice to my graduate students](http://muratbuffalo.blogspot.com/2013/04/my-advice-to-my-students.html)
 
 ### Unix and Linux
 
 * [Unix考古记：一个“遗失”的shell](http://coolshell.cn/articles/9410.html)
 * [应该知道的Linux技巧](http://coolshell.cn/articles/8883.html)
+* [Ubuntu系统备份恢复升级策略](http://ghosertblog.github.io/blog/2012/12/04/ubuntu-living-handbook-backup-restore/)
 
 ### visualization
 
